@@ -1,16 +1,17 @@
 ## Привет! Меня зовут Макс 👋
 
-Data Scientist | Python, SQL
+**Data Scientist | Python, SQL**
 
 Аспирант кафедры математических методов в экономике. Пишу диссертацию по применению ИИ и статистических методов для оценки эффективности бизнеса. Перехожу в Data Science.
 
-Дополнительно изучал Android-разработку. Этот опыт дал понимание принципов программирования, алгоритмов и работы с кодом. 
+Дополнительно изучал Android-разработку — этот опыт дал понимание принципов программирования, алгоритмов и работы с кодом.
 
 Моя цель — применять методы анализа данных и ML для решения бизнес-задач: прогнозирование, оценка рисков, оптимизация процессов.
 
-## Контакты 
+## Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_Satin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satinmaksim@yandex.ru)
 
 ## Мой стек
 
@@ -19,32 +20,31 @@ Data Scientist | Python, SQL
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-### Android
+<details>
+<summary>Android (предыдущий опыт)</summary>
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=sqlite&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-4A90E2?style=for-the-badge&logo=square&logoColor=white)
-![Glide](https://img.shields.io/badge/Glide-02303A?style=for-the-badge&logo=android&logoColor=white)
-![Koin](https://img.shields.io/badge/Koin-8A2BE2?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
+</details>
 
-## Мои проекты Data Science
-https://github.com/MaxSatin/insurance-charges-regression - Прогнозирование медицинских расходов клиентов. RandomForest R² = 0,846, кросс-валидация, feature importance. Стек: Python, pandas, scikit-learn.
+## Мои проекты
 
-## Мои проекты Android
+### Data Science
+- [Insurance Charges Regression](https://github.com/MaxSatin/insurance-charges-regression) — прогнозирование медицинских расходов клиентов. RandomForest R² = 0,846, кросс-валидация, feature importance. Стек: Python, pandas, scikit-learn.
 
-https://github.com/MaxSatin/PlayList-Maker - Приложение для прослушивания музыки и создания плейлистов
+<details>
+<summary>Android (предыдущий опыт)</summary>
 
-https://github.com/MaxSatin/practicum-android-diploma - Приложение агрегатор вакансий. Аналог оригинального hh
+- [PlayList-Maker](https://github.com/MaxSatin/PlayList-Maker) — приложение для прослушивания музыки и создания плейлистов.
+- [practicum-android-diploma](https://github.com/MaxSatin/practicum-android-diploma) — агрегатор вакансий.
+- [IMDB-films-app](https://github.com/MaxSatin/IMDB-films-app) — поиск информации о фильмах.
 
-https://github.com/MaxSatin/IMDB-films-app - Приложение для поиска информации о фильмах в базе IMDb
+</details>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=0FB2F7&width=435&lines=%D0%9A%D0%BE%D0%B4+-+%D1%8D%D1%82%D0%BE+%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1+%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C+%D0%BC%D0%B8%D1%80+%D0%BB%D1%83%D1%87%D1%88%D0%B5)](https://git.io/typing-svg)
 
