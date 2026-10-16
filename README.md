@@ -1,8 +1,12 @@
 ## Привет! Меня зовут Макс 👋
 
-Мобильная разработка для меня — это шанс влиять на будущее, создавая продукты, которые становятся частью жизни миллионов людей. Я хочу делать приложения не только технологически сильными, но и вдохновляющими своими удобством и красотой. Возможность воплощать такие идеи — главный драйвер моего профессионального роста.
+**Data Scientist | Python, SQL **
 
-Моя цель — научиться создавать отказоустойчивые системы, воплощенные в форме лаконичных и отзывчивых дизайнов мобильных приложений.
+Аспирант кафедры математических методов в экономике. Пишу диссертацию по применению ИИ и статистических методов для оценки эффективности бизнеса. Перехожу в Data Science.
+
+Дополнительно изучал Android-разработку. Этот опыт дал понимание принципов программирования, алгоритмов и работы с кодом. 
+
+Моя цель — применять методы анализа данных и ML для решения бизнес-задач: прогнозирование, оценка рисков, оптимизация процессов.
 
 ## Контакты 
 
@@ -10,6 +14,15 @@
 
 ## Мой стек
 
+### Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Android
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -23,7 +36,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxSatin&layout=compact&theme=radical)
 
-## Мои проекты
+## Мои проекты Data Science
+
+## Мои проекты Android
 
 https://github.com/MaxSatin/PlayList-Maker - Приложение для прослушивания музыки и создания плейлистов
 
