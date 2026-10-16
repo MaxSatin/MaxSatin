@@ -36,7 +36,7 @@ Data Scientist | Python, SQL
 
 
 ## Мои проекты Data Science
-https://github.com/MaxSatin/insurance-charges-regression - Gрогнозирование медицинских расходов клиентов. RandomForest R² = 0,846, кросс-валидация, feature importance. Стек: Python, pandas, scikit-learn.
+https://github.com/MaxSatin/insurance-charges-regression - Прогнозирование медицинских расходов клиентов. RandomForest R² = 0,846, кросс-валидация, feature importance. Стек: Python, pandas, scikit-learn.
 
 ## Мои проекты Android
 
