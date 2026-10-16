@@ -1,6 +1,6 @@
 ## Привет! Меня зовут Макс 👋
 
-**Data Scientist | Python, SQL **
+Data Scientist | Python, SQL
 
 Аспирант кафедры математических методов в экономике. Пишу диссертацию по применению ИИ и статистических методов для оценки эффективности бизнеса. Перехожу в Data Science.
 
@@ -34,7 +34,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxSatin&layout=compact&theme=radical)
 
 ## Мои проекты Data Science
 https://github.com/MaxSatin/insurance-charges-regression - Gрогнозирование медицинских расходов клиентов. RandomForest R² = 0,846, кросс-валидация, feature importance. Стек: Python, pandas, scikit-learn.
